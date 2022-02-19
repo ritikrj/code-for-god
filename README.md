@@ -1,2 +1,2 @@
 # code-for-god
-coding cometition
+coding competition
